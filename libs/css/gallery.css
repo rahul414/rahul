@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;    
+}
+.cover{
+    position: absolute;
+    font-size: 40px;
+    color: aliceblue;
+    bottom:5%;
+    left:40%;
+    
+}
